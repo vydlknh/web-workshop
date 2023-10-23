@@ -7,7 +7,7 @@ export default function Projects () {
       subtitle: "MERN Stack",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
+      image: "https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png",
       link: "https://reactbootcamp.com",
     },
     {
@@ -15,7 +15,7 @@ export default function Projects () {
       subtitle: "React and Python",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
+      image: "https://nitratine.net/posts/how-to-serve-a-react-app-from-a-python-server/feature.png",
       link: "https://reedbarger.com",
     },
     {
@@ -23,7 +23,7 @@ export default function Projects () {
       subtitle: "React and Firebase",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
+      image: "https://css-tricks.com/wp-content/uploads/2017/06/reactfirebase.png",
       link: "https://jsbootcamp.com",
     }
   ]
